@@ -13,7 +13,7 @@
       type_id: network-hdd
       size: 32g
   network_interface_specs:
-    - network_id: enpnr4onfs6ihtoao32u
+    - network_id: enp8f40df2emgbgkogdc
       primary_v4_address_spec: { one_to_one_nat_spec: { ip_version: IPV4 } }
   scheduling_policy:
     preemptible: false
